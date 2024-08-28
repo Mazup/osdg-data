@@ -1,9 +1,9 @@
 SDG_GOAL: >-
-  1: Großes Ziel
+  3: Großes Ziel
 SDG_TARGET: >-
-  1.1: Teilziel
+  3.1: Teilziel
 SDG_INDICATOR: >-
-  1.1.1: Indikator, der das Teilziel prüft
+  3.1.1: Indikator, der das Teilziel prüft
 SDG_SERIES_DESCR: >-
 
 META_LAST_UPDATE: >-
