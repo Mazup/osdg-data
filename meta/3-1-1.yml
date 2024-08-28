@@ -1,7 +1,7 @@
-indicator_name: Proportion of wetland that is degraded over total wetland area
+indicator_name: Name des Indikators
 indicator_number: 3.1.1
-computation_units: Percentage
+computation_units: Anzahl der Punkte
 source_active_1: true
-source_organisation_1: Wetland Statistics Agency
-source_url_1: "https://wetlandstaticsagency.org"
+source_organisation_1: Quelle 
+source_url_1: "https://quelle.org"
 reporting_status: complete
