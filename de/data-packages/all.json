@@ -58,8 +58,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Männer",
+                "Frauen",
                 ""
               ]
             },
