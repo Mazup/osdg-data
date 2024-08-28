@@ -50,7 +50,7 @@
             "type": "integer"
           },
           {
-            "name": "Inhaftierte",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [

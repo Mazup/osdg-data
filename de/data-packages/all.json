@@ -54,7 +54,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Inhaftierte",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -63,7 +63,7 @@
                 ""
               ]
             },
-            "title": "Inhaftierte"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
