@@ -55,9 +55,11 @@
           },
           {
             "name": "Inhaftierte",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "A",
+                "B",
                 ""
               ]
             },
