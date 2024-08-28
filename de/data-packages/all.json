@@ -2295,30 +2295,6 @@
       "title": "Nachhaltige Fischerei als Anteil am BIP in kleinen Inselentwicklungsstaaten, in den am wenigsten entwickelten Ländern und allen Ländern"
     },
     {
-      "path": "3-4-2/data.csv",
-      "name": "3-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Sterblichkeitsrate bei Suizid"
-    },
-    {
       "path": "11-5-2/data.csv",
       "name": "11-5-2",
       "profile": "tabular-data-resource",
