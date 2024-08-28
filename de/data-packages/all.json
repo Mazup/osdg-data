@@ -735,30 +735,6 @@
       "title": "Inländische Materialverwendung, inländische Materialverwendung pro Kopf und inländische Materialverwendung pro BIP"
     },
     {
-      "path": "3-5-2/data.csv",
-      "name": "3-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Schädlicher Alkoholkonsum, definiert gemäß den nationalen Gegebenheiten als Alkoholkonsum pro Kopf (15 Jahre und älter) innerhalb eines Kalenderjahres in Litern reinem Alkohol"
-    },
-    {
       "path": "6-3-1/data.csv",
       "name": "6-3-1",
       "profile": "tabular-data-resource",
