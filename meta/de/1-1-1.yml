@@ -1,3 +1,11 @@
+indicator_name: Name des de-Indikators
+indicator_number: 3.1.1
+computation_units: Anzahl der Punkte
+source_active_1: true
+source_organisation_1: de-Quelle 
+source_url_1: "https://de-quelle-1.org"
+reporting_status: complete
+
 SDG_GOAL: >-
   Ziel 1: **Beenden** Sie die Armut in allen ihren Formen und überall
 SDG_TARGET: >-
