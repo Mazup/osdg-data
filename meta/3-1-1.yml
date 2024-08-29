@@ -1,7 +1,0 @@
-indicator_name: Name des Indikators
-indicator_number: 3.1.1
-computation_units: Anzahl der Punkte
-source_active_1: true
-source_organisation_1: Quelle 
-source_url_1: "https://quelle.org"
-reporting_status: complete
