@@ -4,14 +4,10 @@ computation_units: Anzahl der Punkte
 source_active_1: true
 source_organisation_1: de-Quelle 
 source_url_1: "https://de-quelle-1.org"
-
-reporting_status: complete
-
 copyright: 'COPYRIGHT MAZUP-1'
-
-graph_title: 'Name der Grafik'
-# graph_titles: []
-graph_type: line
+# graph_title: 'Name der Grafik'
+# graph_type: line
+reporting_status: complete
 
 SDG_GOAL: >-
   3: Großes Ziel
