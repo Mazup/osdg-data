@@ -192,7 +192,7 @@
           }
         ]
       },
-      "title": "Abschiebungen und Überstellungen nach der Dublin III VO"
+      "title": "Prävalenz von Anämie bei Frauen im Alter von 15 bis 49 Jahren, nach Schwangerschaftsstatus (in Prozent)"
     },
     {
       "path": "5-6-1/data.csv",
@@ -360,7 +360,7 @@
           }
         ]
       },
-      "title": "Erwerbslosenanteil nach Zuwanderungsgeschichte"
+      "title": "Anteil der 20- bis 24-jährigen Frauen, die vor einem Alter von 15 oder 18 Jahren verheiratet oder in einer vergleichbaren Verbindung waren"
     },
     {
       "path": "10-3-1/data.csv",
@@ -432,7 +432,7 @@
           }
         ]
       },
-      "title": "Einbürgerungen nach Niedersachsen (Anzahl)"
+      "title": "Produktionsvolumen je Arbeitskraft nach Unternehmensgrößenklassen der Betriebsgröße in Land-/Weide-/Forstwirtschaft"
     },
     {
       "path": "14-5-1/data.csv",
@@ -480,7 +480,7 @@
           }
         ]
       },
-      "title": "Ankünfte Vertriebener aus der Ukraine nach Aufenthalstitel"
+      "title": "Passagiere und Frachtvolumen, nach der Art des Transports"
     },
     {
       "path": "9-2-2/data.csv",
@@ -576,7 +576,7 @@
           }
         ]
       },
-      "title": "Schulabgängerinnen und Schulabgänger nach Nationalität und Abschlussart"
+      "title": "Abschlussquote (Grundschulbildung, Sekundarstufe I, Sekundarstufe II)"
     },
     {
       "path": "16-7-2/data.csv",
@@ -696,7 +696,7 @@
           }
         ]
       },
-      "title": "EASY-Zugänge in Niedersachsen"
+      "title": "Prävalenz von Kleinwuchs (Körpergröße zum Alter < -2 Standardabweichung vom Median des Wachstumsstandards für Kinder der Weltgesundheitsorganisation (WHO)) bei Kindern unter 5 Jahren"
     },
     {
       "path": "12-a-1/data.csv",
@@ -768,7 +768,7 @@
           }
         ]
       },
-      "title": "Bevölkerung am Ort der Hauptwohnung nach Zuwanderungsgeschichte und überwiegendem Lebensunterhalt in Niedersachsen"
+      "title": "Anteil des sicher behandelten Abwassers"
     },
     {
       "path": "4-a-1/data.csv",
@@ -888,7 +888,7 @@
           }
         ]
       },
-      "title": "Fortzüge über die Bundesgrenze aus Niedersachsen"
+      "title": "Anteil der erwachsenen Gesamtbevölkerung mit gesicherter Verfügungsgewalt über Grundeigentum, (a) mit gesetzlich anerkannter Dokumentation und (b) die ihr Eigentumsrecht als sicher erachten, nach Geschlecht und nach Art der Eigentumsverhältnisse"
     },
     {
       "path": "4-c-1/data.csv",
@@ -1344,7 +1344,7 @@
           }
         ]
       },
-      "title": "Vertrieben aus der Ukraine in NIedersachsen nach Geschlecht und Alter"
+      "title": "Wertschöpfung des Verarbeitenden Gewerbes als Anteil am BIP und pro Kopf"
     },
     {
       "path": "8-1-1/data.csv",
@@ -1368,7 +1368,7 @@
           }
         ]
       },
-      "title": "Bei Bundes- und Landtagswahlen wahlberechtigte Bevölkerung mit Zuwanderungsgeschichte"
+      "title": "Jährliche Wachstumsrate des realen BIP pro Kopf"
     },
     {
       "path": "7-1-1/data.csv",
@@ -1392,7 +1392,7 @@
           }
         ]
       },
-      "title": "Paare mit und ohne Kinder und Familien nach Paar-Familientyp und Zuwanderungsgeschichte"
+      "title": "Anteil der Bevölkerung mit Zugang zu Elektrizität"
     },
     {
       "path": "9-5-1/data.csv",
@@ -1536,7 +1536,7 @@
           }
         ]
       },
-      "title": "Anteil der Ausländerinnen und Ausländer in Niedersachsen in Prozent"
+      "title": "Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen gemäß nationaler Definitionen leben"
     },
     {
       "path": "14-2-1/data.csv",
@@ -1608,7 +1608,7 @@
           }
         ]
       },
-      "title": "Ausbildungsbeteiligungsquote im dualen System nach Geschlecht und Nationalität"
+      "title": "Teilnahmequote an frühkindlicher Bildung (ein Jahr vor dem offiziellen Einschulungsalter), nach Geschlecht"
     },
     {
       "path": "6-1-1/data.csv",
@@ -1632,7 +1632,7 @@
           }
         ]
       },
-      "title": "Armutsgefährdungsquoten in Niedersachsen und Deutschland"
+      "title": "Anteil der Bevölkerung mit Zugang zu einer sicheren Trinkwasserversorgung"
     },
     {
       "path": "1-3-1/data.csv",
@@ -1656,7 +1656,7 @@
           }
         ]
       },
-      "title": "Menschen mit Migrationshintergrund"
+      "title": "Anteil der Bevölkerung, die durch soziale Sicherungssysteme abgesichert sind, nach Geschlecht, untergliedert nach Kindern, Arbeitslosen, älteren Personen, Menschen mit Behinderungen, Schwangeren, Neugeborenen, Opfern von Arbeitsunfällen sowie Armen und Schwachen"
     },
     {
       "path": "11-1-1/data.csv",
@@ -1800,7 +1800,7 @@
           }
         ]
       },
-      "title": "Erwerbstätige Menschen mit Zuwanderungsgeschichte in Niedersachsen nach Wirtschaftsabschnitten und Geschlecht"
+      "title": "Existenz gesetzlicher Rahmenbedingungen, die Gleichstellung und Nicht-Diskriminierung aufgrund des Geschlechts fördern, durchsetzen und überwachen"
     },
     {
       "path": "6-5-1/data.csv",
@@ -2472,7 +2472,7 @@
           }
         ]
       },
-      "title": "Ausländerinnen und Ausländer mit und ohne Aufenthaltstitel"
+      "title": "Prävalenz von Unterernährung"
     },
     {
       "path": "14-1-1/data.csv",
@@ -2568,7 +2568,7 @@
           }
         ]
       },
-      "title": "Ausländerinnen und Ausländer in Niedersachsen"
+      "title": "Anteil der Bevölkerung, die unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
     },
     {
       "path": "16-3-3/data.csv",
@@ -2736,7 +2736,7 @@
           }
         ]
       },
-      "title": "Sozialversicherungspflichtig beschäftigte Ausländerinnen und Ausländer"
+      "title": "Anteil der Frauen und Mädchen im Alter von 15 Jahren und älter, die sich in ihrer jetzigen oder früheren Partnerschaft physischer, sexueller oder psychischer Gewalt durch ihren aktuellen oder früheren Intimpartner in den vergangenen 12 Monaten ausgesetzt waren, nach Art der Gewalt und Alter"
     },
     {
       "path": "11-6-1/data.csv",
@@ -2856,7 +2856,7 @@
           }
         ]
       },
-      "title": "Empfängerinnen und Empfänger von Mindestsicherungsleistungen"
+      "title": "Anteil der Bevölkerung mit (a) Zugang zu sicherer Sanitärversorgung und (b) einem Handwaschbecken mit Seife und Wasser"
     },
     {
       "path": "7-2-1/data.csv",
@@ -2880,7 +2880,7 @@
           }
         ]
       },
-      "title": "Mittlere Wohnfläche in m² und mittlere Bruttokaltmiete in Niedersachsen nach Zuwanderungsgeschichte (in 1000)"
+      "title": "Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch"
     },
     {
       "path": "15-a-1/data.csv",
@@ -3072,7 +3072,7 @@
           }
         ]
       },
-      "title": "Zuzüge über die Bundesgrenze nach Niedersachsen"
+      "title": "Anteil der Bevölkerung, die in Haushalten mit Anschluss an die Grundversorgung lebt"
     },
     {
       "path": "5-3-2/data.csv",
@@ -3096,7 +3096,7 @@
           }
         ]
       },
-      "title": "Entwicklung der Arbeitslosenquote"
+      "title": "Anteil der Mädchen und Frauen im Alter von 15-49 Jahren, die weiblicher Genitalverstümmelung unterzogen wurden, nach Alter"
     },
     {
       "path": "6-4-2/data.csv",
@@ -3408,7 +3408,7 @@
           }
         ]
       },
-      "title": "Durchschnittliche Bewohnerzahl in der Landesaufnahmebehörde Niedersachsen (LAB NI)"
+      "title": "Prävalenz von Fehlernährung (Gewicht zur Körpergröße > +2 oder < -2 Standardabweichung vom Median des Wachstumsstandards für Kinder der WHO) bei Kindern unter 5 Jahren, nach der Art (Auszehrung und Übergewicht)"
     },
     {
       "path": "6-3-2/data.csv",
@@ -3840,7 +3840,7 @@
           }
         ]
       },
-      "title": "Höchster beruflicher Abschluss der 25- bis unter 35-Jährigen nach Zuwanderungsgeschichte und Geschlecht (in Prozent)"
+      "title": "Anteil der Kinder unter 5 Jahren mit einer altersgemäßen  Entwicklung hinsichtlich Gesundheit, Lernen und psycho-sozialem Wohlbefinden, nach Geschlecht"
     },
     {
       "path": "17-14-1/data.csv",
@@ -3912,7 +3912,7 @@
           }
         ]
       },
-      "title": "Anerkennungsverfahren nach dem Berufsqualifikationsfeststellungsgesetz (BQFG) sowie dem Niedersächsischen Berufsqualifikationsfeststellungsgesetz (NBQFG)"
+      "title": "Anteil der Jugendlichen und Erwachsenen mit Kompetenzen in Informations- und Kommunikationstechnologie (IKT), nach Art der Kompetenz"
     },
     {
       "path": "16-7-1/data.csv",
@@ -3960,7 +3960,7 @@
           }
         ]
       },
-      "title": "Sozialversicherungspflichtig beschäftigte Ausländerinnen und Ausländer nach Art der Ausbildung"
+      "title": "Anteil der Frauen und Mädchen im Alter von 15 Jahren und älter, die sexueller Gewalt durch andere Personen als einem Intimpartner in den vergangenen 12 Monaten ausgesetzt waren, nach Alter und Ort des Geschehens"
     },
     {
       "path": "14-4-1/data.csv",
@@ -4464,7 +4464,7 @@
           }
         ]
       },
-      "title": "Veränderungen der Anzahl der Einbürgerungen"
+      "title": "Durchschnittliches Einkommen kleiner Nahrungsmittelproduzenten, nach Geschlecht und indigenem Status"
     },
     {
       "path": "1-5-2/data.csv",
@@ -4896,7 +4896,7 @@
           }
         ]
       },
-      "title": "Gesamtzahl Ankünfte Vertriebener aus der Ukraine"
+      "title": "Anteil der ländlichen Bevölkerung, die im Umkreis von 2 km entfernt an einer ganzjährig befahrbaren Straße lebt"
     },
     {
       "path": "12-1-1/data.csv",
@@ -4944,7 +4944,7 @@
           }
         ]
       },
-      "title": "Verteilung der Schülerinnen und Schüler im 8. Schuljahrgang"
+      "title": "Anteil der Kinder und Jugendlichen, die (a) in Klasse 2/3 (b) am Ende der Grundschule und (c) am Ende der Sekundarstufe I ein Mindestleistungsniveau in (i) Lesen und (ii) Mathematik erreichen, nach Geschlecht"
     },
     {
       "path": "17-17-1/data.csv",
@@ -5136,7 +5136,7 @@
           }
         ]
       },
-      "title": "Ausländische Studentinnen und Studenten nach Land des Erwerbs der Studienberechtigung"
+      "title": "Teilnahmequote von Jugendlichen und Erwachsenen an formaler und non-formaler Bildung und Ausbildung in den vergangenen 12 Monaten, nach Geschlecht"
     },
     {
       "path": "2-1-2/data.csv",
@@ -5160,7 +5160,7 @@
           }
         ]
       },
-      "title": "Ausländerinnen und Ausländer nach Aufenthaltsstatus - kein Aufenthalstitel erforderlich"
+      "title": "Prävalenz mittlerer oder schwerer Ernährungsunsicherheit in der Bevölkerung, basierend auf der Erfahrungsskala für Ernährungsunsicherheit (FIES)"
     },
     {
       "path": "16-6-1/data.csv",
