@@ -34,13 +34,16 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
-## Konzept:
+  ## Konzept:
 
-Ziel ist es, angesichts einer geringen Inhaftierungsquote in Schleswig-Holstein zukünftig einen Wert von unter 40,0 zu erreichen.
-
-(Die Bewertung bezieht sich auf die Daten (i.d.R. 2005 -2017) des 1. Berichts Schleswig-Holsteins zu den UN-Nachhaltigkeitszielen.)
-
-Trotz leichten Anstiegs befindet sich Schleswig-Holstein europa- und, soweit verlässliche Vergleichsdaten vorliegen, weltweit unter den Ländern mit den geringsten Gefangenenquoten. Der Norden setzt das juristische Prinzip wirksam um, Freiheitsentzug nur als letztes Mittel anzuwenden, was nicht zuletzt kriminologischen Erkenntnissen entspricht. Es ist zu erwarten, dass die derzeit niedrige Inhaftierungsquote stabil bleiben und mittelfristig die Zielmarke von unter 40,0 erreicht werden wird.
+  Ziel ist es, angesichts einer geringen Inhaftierungsquote in Schleswig-Holstein zukünftig einen Wert 
+  von unter 40,0 zu erreichen. Die Bewertung bezieht sich auf die Daten (i.d.R. 2005 -2017) des 1. Berichts 
+  Schleswig-Holsteins zu den UN-Nachhaltigkeitszielen. Trotz leichten Anstiegs befindet sich 
+  Schleswig-Holstein europa- und, soweit verlässliche Vergleichsdaten vorliegen, weltweit unter den Länder
+  mit den geringsten Gefangenenquoten. Der Norden setzt das juristische Prinzip wirksam um, Freiheitsentzug 
+  nur als letztes Mittel anzuwenden, was nicht zuletzt kriminologischen Erkenntnissen entspricht. Es ist zu 
+  erwarten, dass die derzeit niedrige Inhaftierungsquote stabil bleiben und mittelfristig die Zielmarke von
+  unter 40,0 erreicht werden wird.
   
 UNIT_MEASURE: >-
 
