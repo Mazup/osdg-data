@@ -1,0 +1,10 @@
+indicator_name: Hallo Ballo 2
+indicator_number: 2.2.4
+computation_units: EUR
+source_active_1: true
+source_organisation_1: Quelle
+source_url_1: https://www.quelle.de
+graph_title: Keine Defi.
+
+graph_type: bar
+reporting_status: complete
