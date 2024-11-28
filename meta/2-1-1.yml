@@ -1,0 +1,5 @@
+indicator_name: Das ist mein Testindikator
+indicator_number: 2-1-1
+graph_title: Das ist ein Test
+graph_type: bar
+reporting_status: complete
