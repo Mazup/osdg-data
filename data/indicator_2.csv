@@ -1,11 +1,8 @@
-Year,Gruppe,Value
-1999,Blam,23
-2000,Blam,56
-2003,Blam,12
-2004,Blam,34
-2007,Blam,66
-1999,Blom,53
-2000,Blom,66
-2003,Blom,32
-2004,Blom,67
-2007,Blom,77
+indicator_name: Test 2
+indicator_number: 2
+source_active_1: true
+source_organisation_1: Quelle
+source_url_1: 'www.quelle.de'
+graph_title: 'Test'
+graph_type: line
+reporting_status: complete
