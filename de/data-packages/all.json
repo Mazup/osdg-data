@@ -39,6 +39,42 @@
       "title": "Test-Indikator"
     },
     {
+      "path": "2-1-1/data.csv",
+      "name": "2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "euc_kr",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Das ist mein Testindikator"
+    },
+    {
       "path": "16-8-1/data.csv",
       "name": "16-8-1",
       "profile": "tabular-data-resource",
