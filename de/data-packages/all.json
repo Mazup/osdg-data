@@ -39,6 +39,44 @@
       "title": "Test-Indikator"
     },
     {
+      "path": "2-2-3/data.csv",
+      "name": "2-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Gruppe ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Blam",
+                "Blom",
+                "Karamba",
+                "SPAEM",
+                ""
+              ]
+            },
+            "title": "Gruppe "
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "2-2-3"
+    },
+    {
       "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
