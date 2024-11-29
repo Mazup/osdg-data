@@ -9,7 +9,7 @@ data_start_values:
   - field: Gruppe
     value: Blam
   - field: Gruppe
-    value: Blem
+    value: Bläm
 
 graph_type: bar
 reporting_status: complete
