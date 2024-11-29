@@ -23,9 +23,9 @@ graph_target_lines:
   - series: Ziel 2030
     value: 30
 # graph_stacked_disaggregation: Blem
-embedded_feature_footer: This graph is provided by "My Organisation"
-embedded_feature_tab_title: Embedded Chart
-embedded_feature_html: <h3>Hello again</h3><p>This is a text I wrote into the meta section</p><p><a href="">Das könnte ein Link sein</a></p>
+embedded_feature_tab_title: Weitere Informationen
+embedded_feature_html: <h3>Hello again</h3><p>This is a text I wrote into the meta section</p><p><a href="#" target="_blank">Das könnte ein Link sein</a></p>
+# embedded_feature_footer: This graph is provided by "My Organisation"
 # graph_annotations:
 #  - unit: blom
 #    value: 34
