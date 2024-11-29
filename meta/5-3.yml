@@ -14,3 +14,22 @@ data_start_values:
     value: Blom
   - field: Gruppe
     value: Blem
+footer_fields:
+  - label: My field label
+    value: My field content
+  - label: My other field label
+    value: My other field content
+graph_target_lines:
+  - series: Ziel 2030
+    value: 30
+graph_stacked_disaggregation: Blem
+embedded_feature_footer: This graph is provided by "My Organisation"
+embedded_feature_tab_title: Embedded Chart
+embedded_feature_html: <h3>Hello again</h3><p>This is a text I wrote into the meta section</p><p><a href="">Das könnte ein Link sein</a></p>
+graph_annotations:
+  - unit: blom
+    value: 34
+    preset: target_line
+    label:
+      - position: top right
+      - content: Aber hallo
