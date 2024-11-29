@@ -161,6 +161,41 @@
       "title": "Schuldenstand"
     },
     {
+      "path": "5-2/data.csv",
+      "name": "5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Blam",
+                "Blom",
+                "Blum",
+                "Bläm",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "5-2"
+    },
+    {
       "path": "16-3-1/data.csv",
       "name": "16-3-1",
       "profile": "tabular-data-resource",
