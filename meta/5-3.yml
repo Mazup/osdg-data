@@ -7,3 +7,10 @@ source_url_1: www.quelle.de
 graph_title: Was immer dieser Wert anzeigen soll.
 graph_type: bar
 reporting_status: complete
+data_start_values:
+  - field: Gruppe
+    value: Blam
+  - field: Gruppe
+    value: Blom
+  - field: Gruppe
+    value: Blem
