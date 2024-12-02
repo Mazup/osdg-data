@@ -10,6 +10,10 @@ data_start_values:
     value: Blam
   - field: Gruppe
     value: Bläm
-
+publications:
+  - title: My publication title
+    link: "https://example.com/path/to/my/file"
+    description: My publication description
+    date: 1953-08-12
 graph_type: bar
 reporting_status: complete
