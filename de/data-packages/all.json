@@ -77,6 +77,44 @@
       "title": "Test 2"
     },
     {
+      "path": "7-1/data.csv",
+      "name": "7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Jahreszeit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Winter",
+                "Frühling",
+                "Sommer",
+                "Herbst",
+                ""
+              ]
+            },
+            "title": "Jahreszeit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Indikator für Nachhaltigkeit"
+    },
+    {
       "path": "4-1/data.csv",
       "name": "4-1",
       "profile": "tabular-data-resource",
