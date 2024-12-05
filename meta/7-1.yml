@@ -1,9 +1,9 @@
-indicator_name: Indikator für Nachhaltigkeit
+indicator_name: 'Indikator für Nachhaltigkeit'
 indicator_number: 7-1
-computation_units: Anzahl Sonnenstrahlen
+computation_units: 'Anzahl Sonnenstrahlen'
 source_active_1: true
-source_organisation_1: Land SH
+source_organisation_1: 'Land SH'
 source_url_1: https://www.landsh.de
-graph_title: Dieser Wert ist gut.
+graph_title: 'Dieser Wert ist gut.'
 graph_type: bar
 reporting_status: complete
