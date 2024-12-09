@@ -8,16 +8,8 @@ graph_title: 'Dieser Wert ist gut.
 '
 graph_type: line
 data_start_values:
-  field: Geschlecht'
-  value: Frauen'
-23,Männer,166
-24,Männer,26
-25,Männer,34
-26,Männer,45
-23,Frauen,123
-24,Frauen,231
-25,Frauen,34
-26,Frauen,45
+  - field: 'Geschlecht'
+  - value: 'Frauen'
 publications:
   - title: 'Indikator Indikator für Nachhaltigkeit'
     link: 'https://www.landsh.de'
