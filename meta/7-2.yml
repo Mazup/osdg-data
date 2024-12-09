@@ -1,0 +1,27 @@
+indicator_name: 'Indikator für Nachhaltigkeit'
+indicator_number: 7-2
+computation_units: 'Personen'
+source_active_1: true
+source_organisation_1: 'Land SH'
+source_url_1: 'https://www.landsh.de'
+graph_title: 'Dieser Wert ist gut.
+'
+graph_type: line
+data_start_values:
+  field: Geschlecht'
+  value: Frauen'
+23,Männer,166
+24,Männer,26
+25,Männer,34
+26,Männer,45
+23,Frauen,123
+24,Frauen,231
+25,Frauen,34
+26,Frauen,45
+publications:
+  - title: 'Indikator Indikator für Nachhaltigkeit'
+    link: 'https://www.landsh.de'
+    description: 'Weiterführende Informationen zu diesem Indikator im Nachhaltigkeitsbericht des Landes Shleswig-Holstein.'
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2024-12-09
+reporting_status: complete
