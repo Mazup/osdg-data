@@ -4,12 +4,11 @@ computation_units: 'Personen'
 source_active_1: true
 source_organisation_1: 'Land SH'
 source_url_1: 'https://www.landsh.de'
-graph_title: 'Dieser Wert ist gut.
-'
+graph_title: 'Dieser Wert ist gut.'
 graph_type: line
 data_start_values:
   - field: 'Geschlecht'
-  - value: 'Frauen'
+    value: 'Frauen'
 publications:
   - title: 'Indikator Indikator für Nachhaltigkeit'
     link: 'https://www.landsh.de'
